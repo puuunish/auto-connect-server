@@ -1,0 +1,2 @@
+# auto-connect-server
+teste
