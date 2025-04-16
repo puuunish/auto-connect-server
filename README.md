@@ -3,7 +3,7 @@
 # 👋 BEM VINDOS
 Olá, tudo bem? Meu nome é Punish. Apresento a vocês este repositório no GitHub usando samp-query em NODEJS.
 
-## ⚙️ AUTO CONEXÂO (NODEJS)
+## ⚙️ AUTO CONEXÃO (NODEJS)
 Apresento a vocês este repositório no GitHub contendo o código-fonte de um bot de auto conexão que desenvolvi, semelhante ao funcionamento do FiveM, utilizando a biblioteca ```samp-query```. O projeto está disponível para uso livre — sintam-se à vontade para explorar e contribuir!
 
 ### 📥 SOURCE
