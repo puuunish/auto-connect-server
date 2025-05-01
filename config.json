@@ -1,6 +1,5 @@
 {
-  "APPToken":
-  "MTAwNDA2NjA5ODMzNDkyOTA2Ng.GapW0i._hmX9NIjeQX11jUnpmAVn0wlwLLjOrr2tNtZXU",
-  "IDClient": "1004066098334929066",
-  "IDGuild": "1320421794389299281"
+  "APPToken": "TOKEN_BOT",
+  "IDClient": "ID_BOT",
+  "IDGuild": "ID_SERVIDOR"
 }
